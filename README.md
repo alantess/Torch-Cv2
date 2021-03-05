@@ -2,7 +2,7 @@
 - Compiles Pytorch and OpenCV2 
 - Sets a tensor to device and opens an image using open cv
 
-# Jetson Nano 
+## Jetson Nano 
 - If using Jetson Nano, you must swap the cmake files. Just copy the command below to do so.
 
 ```bash
@@ -18,3 +18,5 @@ $ cnake ..
 $ make 
 $ ./main
 ```
+
+
